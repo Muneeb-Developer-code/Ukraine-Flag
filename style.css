@@ -1,0 +1,32 @@
+.upper{
+    position: absolute;
+    left: 470px;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.flag {
+  
+    width: 300px;
+    height: 200px;
+position: absolute;
+left: 450px;
+top: 150px;
+  
+}
+
+.a{
+    width: 300px;
+    height: 100px;
+    background-color:#52bde9;
+    top: 100px;
+}
+
+.b{
+    width: 300px;
+    height: 100px;
+    background-color:#f2ea01;
+    top: 100px
+  
+    ;
+   
+}
